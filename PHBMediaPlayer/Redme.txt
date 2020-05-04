@@ -1,0 +1,3 @@
+Nama = Dwi Satria Indriawan
+Kelas =4B
+NIM = 18090146
